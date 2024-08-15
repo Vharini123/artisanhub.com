@@ -1,0 +1,49 @@
+*{
+    margin:0px;
+    padding:0px:
+}
+.one{
+    background-color: lightgrey;
+    color: black;
+    padding: 10px;
+}
+.two{
+    color: white;
+    background-color: black;
+    margin: 50px;
+    padding: 50px;
+    display: inline-block;
+    border-color: grey;
+    border-style: solid;
+    border-width:10px;
+}
+.three {
+    margin: 50px;
+    color: black;
+    padding: 10px;
+}
+.four{
+    margin: 50px;
+    color: black;
+    padding: 10px;
+}
+.five {
+    margin: 50px;
+    color: black;
+    padding: 10px; 
+}
+.six {
+    margin: 50px;
+    color: black;
+    padding: 10px; 
+} 
+.seven {
+    margin: 50px;
+    color: black;
+    padding: 10px; 
+}
+.eight {
+    background-color: lightgrey;
+    color: black;
+    padding: 50px;
+}
